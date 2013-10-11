@@ -1,0 +1,2 @@
+Global Git Config
+=======
